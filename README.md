@@ -1,7 +1,7 @@
 <h1>Hey, Abed here 👋</h1>
 <h3>Am a product focused software engineer and instructor</h3>
 
-- 🚀 I’m currently working on [future of e-commerce at unreal.town](unreal.town)
+- 🚀 I’m currently working on the future of e-commerce at [unreal.town](unreal.town)
 
 - 🌱 I’m currently learning about **Generative AI, unreal engine, blender, three.js, & design fundamentals**
 
