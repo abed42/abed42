@@ -1,5 +1,5 @@
-<h1 align="center">Hey, Abed here 👋</h1>
-<h3 align="center">Am a product focused software engineer and instructor</h3>
+<h1>Hey, Abed here 👋</h1>
+<h3>Am a product focused software engineer and instructor</h3>
 
 - 🚀 I’m currently working on [future of e-commerce at unreal.town](unreal.town)
 
