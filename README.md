@@ -7,7 +7,7 @@
 
 - 👯 Together with my friends we started [intechgration.io](https://github.com/in-tech-gration)
 
-- 🤝 I’m looking for help with [intecgration](https://github.com/in-tech-gration)
+- 🤝 I’m looking for help with [intechgration](https://github.com/in-tech-gration)
 
 - 💬 Ask me about **web app dev, creative dev and future of e-commerce**
 
